@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapim/css2?family=Allura&family=Bowlby+One+SC&family=Caprasimo&family=Great+Vibes&family=Homemade+Apple&family=Luckiest+Guy&family=Mountains+of+Christmas&family=Mr+Dafoe&family=Racing+Sans+One&family=Rock+Salt&display=swap');
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: url(watercolor-5062356_1280.png
+  )repeat;
+}
+canvas {
+  display: block;
+}
+
+.banner {
+  margin: auto;
+  text-align: center;
+}
+
+#controls {
+  display: block;
+  float: left;
+  background-color: rgba(255,255,255,0.5);
+  border-top-left-radius:10px;
+  width: 250px;
+  height: 580px;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+#font-slider {
+  float: left;
+  display: block;
+}
+
+#save-button {
+  margin: 10px;
+  float:center;
+}
+
+#Randpic-button {
+  margin: 10px;
+  float:center;
+}
